@@ -21,7 +21,7 @@ In node js “async ”  is a keyword used to define function that can perform a
 
 4) multer :- it is a middleware for read file data from incoming request. it is used to to read single file or multiple file.
               
-   
+5) .env :- 
  
 
 
